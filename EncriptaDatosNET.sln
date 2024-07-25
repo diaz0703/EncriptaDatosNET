@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EncriptaDatosNET", "EncriptaDatosNET\EncriptaDatosNET.csproj", "{82100E5F-B745-407B-B194-004E2B919FCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncriptaCertMicro", "EncriptaCertMicro\EncriptaCertMicro.csproj", "{D1D7DB10-FB04-4972-BB91-92751C95FD53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82100E5F-B745-407B-B194-004E2B919FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82100E5F-B745-407B-B194-004E2B919FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82100E5F-B745-407B-B194-004E2B919FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82100E5F-B745-407B-B194-004E2B919FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1D7DB10-FB04-4972-BB91-92751C95FD53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1D7DB10-FB04-4972-BB91-92751C95FD53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1D7DB10-FB04-4972-BB91-92751C95FD53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1D7DB10-FB04-4972-BB91-92751C95FD53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10381D59-5FB8-4F6E-9C26-02CFE8EF1228}
+	EndGlobalSection
+EndGlobal
